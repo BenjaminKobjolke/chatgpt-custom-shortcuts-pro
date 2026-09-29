@@ -74,3 +74,9 @@ tests/playwright/topbar-to-bottom-*.js
 # Temporary scratch/reference artifacts
 _temp-files/
 claude-plans
+.claude/
+
+# Claude working files
+PLAN.md
+HANDOFF.md
+/PLAN_*.md
